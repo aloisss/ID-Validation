@@ -1,0 +1,15 @@
+C:\Users\Masaraure\source\repos\id\bin\Debug\net6.0\id.exe
+C:\Users\Masaraure\source\repos\id\bin\Debug\net6.0\id.deps.json
+C:\Users\Masaraure\source\repos\id\bin\Debug\net6.0\id.runtimeconfig.json
+C:\Users\Masaraure\source\repos\id\bin\Debug\net6.0\id.dll
+C:\Users\Masaraure\source\repos\id\bin\Debug\net6.0\id.pdb
+C:\Users\Masaraure\source\repos\id\obj\Debug\net6.0\id.csproj.AssemblyReference.cache
+C:\Users\Masaraure\source\repos\id\obj\Debug\net6.0\id.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masaraure\source\repos\id\obj\Debug\net6.0\id.AssemblyInfoInputs.cache
+C:\Users\Masaraure\source\repos\id\obj\Debug\net6.0\id.AssemblyInfo.cs
+C:\Users\Masaraure\source\repos\id\obj\Debug\net6.0\id.csproj.CoreCompileInputs.cache
+C:\Users\Masaraure\source\repos\id\obj\Debug\net6.0\id.dll
+C:\Users\Masaraure\source\repos\id\obj\Debug\net6.0\refint\id.dll
+C:\Users\Masaraure\source\repos\id\obj\Debug\net6.0\id.pdb
+C:\Users\Masaraure\source\repos\id\obj\Debug\net6.0\id.genruntimeconfig.cache
+C:\Users\Masaraure\source\repos\id\obj\Debug\net6.0\ref\id.dll
